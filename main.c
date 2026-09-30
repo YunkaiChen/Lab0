@@ -2,6 +2,9 @@
 
 int main()
 {
-    // @TODO: print a sentence you want.
+    int a=3,b=4;
+    int c=a+b;
+    printf("a+b=%d\n",c);
     printf("Hello, world!\n");
+    return 0;
 }
